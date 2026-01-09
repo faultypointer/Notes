@@ -1,0 +1,11 @@
+## Articles
+	- ### WebAssembly
+		- [What Happened to WebAssembly?](https://emnudge.dev/blog/what-happened-to-webassembly/)
+	- ### Terminals
+		- [How Terminals Work](https://how-terminals-work.vercel.app/)
+	- ### Version Control System
+		- [A data model for Git](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/)
+	- ### Security
+		- [Clang Hardening Cheat Sheet](https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html)
+	- ### Rust
+		- [Intro to SIMD in Rust](https://kerkour.com/introduction-rust-simd)
