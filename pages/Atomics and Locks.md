@@ -1,0 +1,18 @@
+## Progress
+	- ### [Book](https://marabos.nl/atomics/) Chapters
+		- DONE  Basics Of Rust Concurrency
+		- TODO Atomics
+		- TODO Memory Ordering
+		- TODO Building Our Own Spin Lock
+		- TODO Building Our Own Channel
+		- TODO Building Our Own "Arc"
+		- TODO Understanding the Processor
+		- TODO  Operating System Primitives
+		- TODO Building Our Own Locks
+		- TODO Ideas and Inspiration
+	- ### C Equivalent
+		- DONE Basics of Multithreading
+		- TODO Atomics
+	- ### Blog Ideas
+		- TODO Atomics in Rust, C and C++
+	-

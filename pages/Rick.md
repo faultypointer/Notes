@@ -1,0 +1,4 @@
+- Rick is a UCI chess engine written (well about to be written in the near future) in rust.
+- It is a successor to [Tonica](https://github.com/faultypointer/tonica).
+- Repository: [Github](https://github.com/faultypointer/Rick)
+-
