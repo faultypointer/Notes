@@ -1,0 +1,17 @@
+- I don't have a machine with RISC-V architecture, so I had a lot of problem setting up qemu for running the programs I was going to write for RISC-V. There were lot of weird things I had to do to make it work.
+- So, I thought if I'm going to do that anyway, why not go all the way. Why not write directly to RISC-V hardware (emulated hardware) without OS there to help me.
+- Since my goal is to learn OS dev, this works out perfectly.
+- So I'm gonna be writing various kinds of kernels to learn RISC-V.
+- ## Progress
+	- DONE Setup
+	- TODO Introduction to RISC-V
+- ## RISC-V Kernels
+	- repo: https://github.com/faultypointeros/LearningRISC-VWithEntirelyTooManyKernels
+	- TODO Hello World
+	-
+-
+- ## [[Blogs]]
+	- TODO Learning RISC-V: Setup + Introduction
+	- TODO Hello World Kernel
+	-
+	-

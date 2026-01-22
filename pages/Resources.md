@@ -9,3 +9,13 @@
 		- [Clang Hardening Cheat Sheet](https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html)
 	- ### Rust
 		- [Intro to SIMD in Rust](https://kerkour.com/introduction-rust-simd)
+		- [Wrapper Types In Rust](https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/)
+	- ### Linux
+		- [READ_ONCE WRITE_ONCE but not for Rust](https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/)
+	- ### Atomics and Locks
+		- [An Introduction to Lockless Algorithms](https://lwn.net/Articles/844224/)
+		-
+- ## Papers
+	- ### C/C++
+		- [Common compiler optimizations are invalid in C11 memory model](https://plv.mpi-sws.org/c11comp/popl15.pdf)
+		-
